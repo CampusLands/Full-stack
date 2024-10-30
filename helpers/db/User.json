@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af494515"
+  },
+  "name": "Miguel Angel Castro Escamilla",
+  "nickName": "Marcos",
+  "password": "$2a$10$lgb6jiKHKZoHqjuJFKOoJuV798HhreQFhMLRCsvsI49OmGk11zBOK",
+  "email": "ma@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af494516"
+  },
+  "name": "Ana Isabel Lopez Ruiz",
+  "nickName": "Ani",
+  "password": "abc123",
+  "email": "ani@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af494517"
+  },
+  "name": "Javier Gonzalez Perez",
+  "nickName": "Javi",
+  "password": "pass123",
+  "email": "javi@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af494518"
+  },
+  "name": "Lucia Fernandez Gonzalez",
+  "nickName": "Luci",
+  "password": "lucia2024",
+  "email": "luci@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af494519"
+  },
+  "name": "Pedro Sanchez Ramirez",
+  "nickName": "Pedrito",
+  "password": "p3dr1t0",
+  "email": "pedro@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af49451a"
+  },
+  "name": "Elena Garcia Lopez",
+  "nickName": "Elen",
+  "password": "elen456",
+  "email": "elen@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af49451b"
+  },
+  "name": "Carlos Martinez Diaz",
+  "nickName": "Carlitos",
+  "password": "carlos789",
+  "email": "carlos@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af49451c"
+  },
+  "name": "Sandra Moreno Torres",
+  "nickName": "Sand",
+  "password": "sandPass",
+  "email": "sand@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af49451d"
+  },
+  "name": "Alberto Ruiz Romero",
+  "nickName": "Albe",
+  "password": "alberto1234",
+  "email": "albe@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6716c1b762f9cc85af49451e"
+  },
+  "name": "Maria Jimenez Sanchez",
+  "nickName": "Mari",
+  "password": "maria456",
+  "email": "mari@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "671f996e998b8ba15ea863ae"
+  },
+  "name": "Miguel",
+  "nickName": "Miguel",
+  "password": "$2a$10$FB7SoPBhK2euwhRG9ckJJeWyb5sBsTnNAW8L7mAw4VldwHxFD0VcC",
+  "email": "ma2@gmail.com"
+}]

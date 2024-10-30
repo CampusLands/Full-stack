@@ -1,0 +1,325 @@
+[{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af49451e"
+  },
+  "descripción": "Conceptos de UI que valen la pena explorar y desarrollar en aplicaciones web.",
+  "title": "UI concepts worth existing PRINCIPAL",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494515"
+  },
+  "changes": [
+    {
+      "title": "UI concepts worth CAMBIO 1",
+      "descripción": "Detalles sobre la evolución de los conceptos de UI en la industria.",
+      "date": {
+        "$date": "2024-10-21T05:00:00.000Z"
+      }
+    },
+    {
+      "descripción": "Conceptos de UI que valen la pena explorar y desarrollar en aplicaciones web.",
+      "title": "UI concepts worth existing CAMBIO 2",
+      "date": {
+        "$date": "2024-10-24T11:34:44.312Z"
+      }
+    },
+    {
+      "descripción": "Conceptos de UI que valen la pena explorar y desarrollar en aplicaciones web.",
+      "title": "UI concepts worth existing CAMBIO 3",
+      "date": {
+        "$date": "2024-10-24T11:38:33.478Z"
+      }
+    }
+  ],
+  "status": "not visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af49451f"
+  },
+  "descripción": "Ejemplos de mejora continua en aplicaciones móviles.",
+  "title": "Continuous update in mobile apps",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494516"
+  },
+  "changes": [
+    {
+      "title": "Mobile app bug fixes",
+      "descripción": "Se corrigieron varios errores que afectaban la funcionalidad en iOS.",
+      "date": {
+        "$date": "2024-10-05T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Performance enhancements",
+      "descripción": "Optimización del tiempo de carga en dispositivos de gama baja.",
+      "date": {
+        "$date": "2024-09-20T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "UI update",
+      "descripción": "Revisión del diseño para mejorar la experiencia de usuario.",
+      "date": {
+        "$date": "2024-08-15T05:00:00.000Z"
+      }
+    }
+  ],
+  "status": "not visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494520"
+  },
+  "descripción": "Nuevas tendencias en diseño gráfico para aplicaciones web. PRINCIPAL",
+  "title": "Web design trends 2024",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494515"
+  },
+  "changes": [
+    {
+      "descripción": "Uso de inteligencia artificial para mejorar la UX.",
+      "title": "AI in UX CAMBIO 3",
+      "date": {
+        "$date": "2024-10-24T12:20:29.748Z"
+      }
+    },
+    {
+      "descripción": "Uso de inteligencia artificial para mejorar la UX.",
+      "title": "AI in UX CAMBIO 3",
+      "date": {
+        "$date": "2024-10-24T12:22:51.072Z"
+      }
+    }
+  ],
+  "status": "visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494521"
+  },
+  "descripción": "Guía de optimización de rendimiento en páginas web.",
+  "title": "Performance optimization",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494518"
+  },
+  "changes": [
+    {
+      "title": "Lazy loading images",
+      "descripción": "Implementación de carga diferida para imágenes para mejorar el rendimiento.",
+      "date": {
+        "$date": "2024-05-12T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Code refactoring",
+      "descripción": "Reestructuración del código para eliminar redundancias.",
+      "date": {
+        "$date": "2024-04-30T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Caching updates",
+      "descripción": "Mejoras en la estrategia de almacenamiento en caché.",
+      "date": {
+        "$date": "2024-03-21T05:00:00.000Z"
+      }
+    }
+  ],
+  "status": "visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494522"
+  },
+  "descripción": "Uso de inteligencia artificial para mejorar la UX.",
+  "title": "AI in UX",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494519"
+  },
+  "changes": [
+    {
+      "title": "Chatbot integration",
+      "descripción": "Integración de un chatbot para asistencia automatizada al usuario.",
+      "date": {
+        "$date": "2024-02-14T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Personalized content suggestions",
+      "descripción": "Implementación de recomendaciones de contenido personalizadas basadas en AI.",
+      "date": {
+        "$date": "2024-01-10T05:00:00.000Z"
+      }
+    },
+    {
+      "descripción": "Uso de inteligencia artificial para mejorar la UX.",
+      "title": "AI in UX CAMBIO 3",
+      "date": {
+        "$date": "2024-10-24T11:56:17.661Z"
+      }
+    }
+  ],
+  "status": "not visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494523"
+  },
+  "descripción": "Tendencias de accesibilidad en diseño de interfaces.",
+  "title": "Accessibility trends",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af49451a"
+  },
+  "changes": [
+    {
+      "title": "Voice command support",
+      "descripción": "Implementación de soporte para comandos de voz en la interfaz de usuario.",
+      "date": {
+        "$date": "2024-07-05T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Keyboard navigation updates",
+      "descripción": "Mejoras en la navegación con teclado para cumplir con estándares de accesibilidad.",
+      "date": {
+        "$date": "2024-06-20T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Color contrast adjustments",
+      "descripción": "Ajustes en el contraste de colores para usuarios con discapacidad visual.",
+      "date": {
+        "$date": "2024-05-01T05:00:00.000Z"
+      }
+    }
+  ],
+  "status": "visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494524"
+  },
+  "descripción": "Estrategias para la optimización de la conversión en tiendas en línea.",
+  "title": "E-commerce conversion strategies",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af49451b"
+  },
+  "changes": [
+    {
+      "title": "A/B testing results",
+      "descripción": "Resultados de pruebas A/B para identificar la mejor estrategia de conversión.",
+      "date": {
+        "$date": "2024-08-10T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Cart abandonment update",
+      "descripción": "Análisis de abandono del carrito y estrategias para reducirlo.",
+      "date": {
+        "$date": "2024-07-15T05:00:00.000Z"
+      }
+    }
+  ],
+  "status": "visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494525"
+  },
+  "descripción": "Métodos de autenticación modernos para mejorar la seguridad.",
+  "title": "Modern authentication methods",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494515"
+  },
+  "changes": [
+    {
+      "title": "Two-factor authentication",
+      "descripción": "Implementación de autenticación en dos pasos para mayor seguridad.",
+      "date": {
+        "$date": "2024-04-18T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Biometric login",
+      "descripción": "Soporte para inicio de sesión con huella dactilar y reconocimiento facial.",
+      "date": {
+        "$date": "2024-03-02T05:00:00.000Z"
+      }
+    }
+  ],
+  "status": "not visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494526"
+  },
+  "descripción": "Análisis de casos de éxito en el diseño de interfaces de usuario.",
+  "title": "UI success case studies",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494515"
+  },
+  "changes": [
+    {
+      "title": "Study on minimalism",
+      "descripción": "Estudio sobre la efectividad del diseño minimalista en aplicaciones móviles.",
+      "date": {
+        "$date": "2024-03-15T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "User-centered design impact",
+      "descripción": "Evaluación del impacto de un enfoque de diseño centrado en el usuario.",
+      "date": {
+        "$date": "2024-02-05T05:00:00.000Z"
+      }
+    }
+  ],
+  "status": "visible"
+},
+{
+  "_id": {
+    "$oid": "6716c25d62f9cc85af494527"
+  },
+  "descripción": "Uso de colores en diseño web para crear experiencias visuales impactantes.",
+  "title": "Color theory in web design",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af49451e"
+  },
+  "changes": [
+    {
+      "title": "Color impact",
+      "descripción": "Estrategias para el uso efectivo de colores en interfaces.",
+      "date": {
+        "$date": "2024-02-21T05:00:00.000Z"
+      }
+    },
+    {
+      "title": "Palette refinement",
+      "descripción": "Ajuste de la paleta de colores para mejorar la consistencia del diseño.",
+      "date": {
+        "$date": "2024-01-11T05:00:00.000Z"
+      }
+    }
+  ],
+  "status": "not visible"
+},
+{
+  "_id": {
+    "$oid": "671a4a8921a0b6975858be05"
+  },
+  "descripción": "Aprendiendo otraves a ser apis",
+  "title": "No quiero mas",
+  "usuario_id": {
+    "$oid": "6716c1b762f9cc85af494515"
+  },
+  "changes": [
+    {
+      "descripción": "Aprendiendo otraves a ser apis, porfin funciona",
+      "title": "No quiero mas",
+      "date": {
+        "$date": "2024-10-24T13:24:56.895Z"
+      }
+    }
+  ],
+  "status": "not visible"
+}]
